@@ -23,3 +23,7 @@ I’m a student and a tech lover currently living in Kanpur, Uttar Pradesh, Indi
 
 - [You can know more about me here](https://harsh98trivedi.github.io/blog/Hello-World)
 - [Github](https://github/com/harsh98trivedi)
+
+# Sanskar Sinha
+
+I'm a Gym lover and coder.
